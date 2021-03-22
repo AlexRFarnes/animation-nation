@@ -1,6 +1,6 @@
 # Animation Nation
 
-> Animated classic Hamburguer menu with links with cool animation for in and out.
+> Animated classic Hamburguer menu and links with cool animation for in and out.
 
 ## Table of contents
 

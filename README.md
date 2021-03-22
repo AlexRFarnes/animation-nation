@@ -18,7 +18,7 @@ Use of event listeners for the navigation to be triggered when the hamburguer me
 
 ## Screenshots
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/57517804/111973215-398ef900-8b39-11eb-8eb6-6f9b6db7b5a5.png)
 
 [Demo]()
 
@@ -34,6 +34,9 @@ List of features ready and TODOs for future development
 
 - Hamburguer menu animated with CSS on click with JS
 - Animated nav links triggered with JS
+
+To-do list:
+-Implement the navigation on a real website
 
 ## Status
 
